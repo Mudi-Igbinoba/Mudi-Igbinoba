@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a huge foodie and obsessed with movies and tv series especially in the MCU
 
-
+[![@mudee's Holopin board](https://holopin.me/mudee)](https://holopin.io/@mudee)
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mudi-Igbinoba&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats) 
 [![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudi-Igbinoba&layout=compact&count_private=true&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
