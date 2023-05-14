@@ -3,7 +3,7 @@
 
  Hi everyone, I'm Osamudiame Ruth Igbinoba and I'm a frontend developer with a year's worth of experience. I enjoy implementing user interface designs using languages like HTML, CSS, JavaScript and React.js.
 
-- 🔭 I am currently a web development intern at [BlueSense](https://github.com/bluesense-core)
+- 🔭 I am currently a web development intern at [BlueSense](https://github.com/bluesense-core) where I have honed my skills in React and used this to build several client websites including the [company's website](https://bluesense.co)
 - 👯 I’m looking to collaborate on any interesting and challenging project that comes my way. I'm also actively seeking entry-level frontend developer roles in companies where I can build my skills as a developer and contribute to innovative projects that are impactful to the society
 - 💬 Ask me about anything
 - 📫 How to reach me: [Email Me](mailto:ruth.igbinoba12@gmail.com) or [Send Me a Message](https://www.linkedin.com/in/osamudiame-igbinoba/
